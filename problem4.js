@@ -1,0 +1,12 @@
+var name = ("Tigmanshu Garg");
+var school = ("Masai School");
+var grade = (12);
+var section = ("A");
+var rollno = (1234);
+var marks_scored = ("Mathematics 77 Geography 88 history 79");
+console.log (name);
+console.log (school);
+console.log (grade);
+console.log (section);
+console.log (rollno);
+console.log (marks_scored);
